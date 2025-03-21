@@ -1,6 +1,6 @@
 # GifsApp
 
-This an Angular proyect
+This an Angular proyect that shows trending gifs and also can search them
 
 ## Dev
 
